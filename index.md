@@ -1,39 +1,62 @@
-## Welcome to First Quote Health!
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141839667-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<button>Test</button>
+  gtag('config', 'UA-141839667-1');
+</script>
+</head>
 
-You can use the [editor on GitHub](https://github.com/firstquotehealth/firstquotehealth.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+<style>
+ body {
+  font-family: 'Poppins', sans-serif;
+  }
+.yes {
+  margin-top: 20px;
+  background-color: #31ed70;
+  border: none;
+  color: white;
+  border-radius: 10%;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
 
-### Markdown
+.yes:hover {
+  background-color: #28cc5f;
+}
+.no {
+  margin-top: 20px;
+  background-color: #b2b2b2;
+  border: none;
+  color: white;
+  border-radius: 10%;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+.no:hover {
+  background-color: #7c7c7c;
+}
+</style>
 
-```markdown
-Syntax highlighted code block
+<center><img src="logo.png" alt="Logo"></center>
 
-# Header 1
-## Header 2
-### Header 3
+<center><button class="yes" onclick="window.location.href='https://www.mb102.com/lnk.asp?o=12088&c=918277&a=377858&k=791E65D0D0DC26543A895BB2781F8F00&l=12366'"> Yes </button>
+<button class="no" onclick="goBack()"> No </button></center>
+<br>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/firstquotehealth/firstquotehealth.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+First Quote Health offers affordable individual and family health insurance plans. Find government reimbursement offers you weren't aware existed and save money on your insurance now! Offers are valid in continental United States only.
