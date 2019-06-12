@@ -1,14 +1,12 @@
-<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141839667-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141839667-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-141839667-1');
+  gtag('config', 'UA-141839667-2');
 </script>
-</head>
 
 <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
 
@@ -27,7 +25,7 @@ function goBack() {
   border: none;
   color: white;
   border-radius: 10%;
-  padding: 25px 45px;
+  padding: 20px 40px;
   text-align: center;
   font-size: 16px;
   cursor: pointer;
@@ -42,7 +40,7 @@ function goBack() {
   border: none;
   color: white;
   border-radius: 10%;
-  padding: 25px 45px;
+  padding: 20px 40px;
   text-align: center;
   font-size: 16px;
   cursor: pointer;
