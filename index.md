@@ -27,7 +27,7 @@ function goBack() {
   border: none;
   color: white;
   border-radius: 10%;
-  padding: 15px 25px;
+  padding: 25px 35px;
   text-align: center;
   font-size: 16px;
   cursor: pointer;
@@ -42,7 +42,7 @@ function goBack() {
   border: none;
   color: white;
   border-radius: 10%;
-  padding: 15px 25px;
+  padding: 25px 35px;
   text-align: center;
   font-size: 16px;
   cursor: pointer;
