@@ -16,7 +16,7 @@
  }
   
  body {
-  background-image: url("baby.jpg");
+  background-image: url("bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
