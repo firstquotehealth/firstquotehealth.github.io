@@ -11,10 +11,6 @@
 
 <style>
   
- h1{
-  color: white;
- }
-  
  body {
   background-image: url("bg.jpg");
   background-repeat: no-repeat;
@@ -82,7 +78,7 @@
 }
 
 text {
-  color: white;
+  color: black;
   font-size: 18px;
   }
   
@@ -105,8 +101,8 @@ text {
 
 </style>
 
-<center><img src="logo.png" alt="Logo" /></center>
-
+<center><img src="logo.png" alt="Logo"/></center>
+<br>
 <center><button class="join" onclick="window.location.href='http://bit.ly/2X0eO35'"> Join </button>
 
 <br>
