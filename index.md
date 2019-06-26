@@ -83,15 +83,15 @@ text {
   }
   
 .join {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  background-color: #31ed70;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-color: #4cff7c;
   border: none;
   color: white;
-  border-radius: 15px;
+  border-radius: 20px;
   padding: 20px 40px;
   text-align: center;
-  font-size: 22px;
+  font-size: 23px;
   cursor: pointer;
 }
 
