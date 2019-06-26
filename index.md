@@ -83,8 +83,8 @@ text {
   }
   
 .join {
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   background-color: #4cff7c;
   border: none;
   color: white;
