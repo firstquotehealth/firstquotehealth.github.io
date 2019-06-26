@@ -78,7 +78,7 @@
 }
 
 text {
-  color: black;
+  color: #282828;
   font-size: 18px;
   }
   
