@@ -107,6 +107,12 @@ text {
 
 <br>
 
-<text>🎉Exclusive insurance offers for our Instagram followers!🎉</text>
+<text>🎉 Exclusive insurance offers for our Instagram followers! 🎉</text>
+<br>
+<text>😌 Save money, but stay secure and confident 😌</text>
+<br>
+<text>🚑 Get best coverage (just in case!) 🚑</text>
+<br>
+<text>🤑 Free First Half Year!!! 🤑</text>
 
 <br>
