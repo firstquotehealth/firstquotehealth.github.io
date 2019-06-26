@@ -6,9 +6,6 @@
     <meta name="theme-color" content="#157878">
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">Would you like to join us?</h1>
-      <h2 class="project-tagline"></h2>    
 
 <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
 
