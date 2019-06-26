@@ -103,7 +103,7 @@ text {
 
 <center><img src="logo.png" alt="Logo"/></center>
 <br>
-<center><button class="join" onclick="window.location.href='http://bit.ly/2X0eO35'"> Join </button>
+<center><button class="join" onclick="window.location.href='http://bit.ly/2X0eO35'"> Get Quote </button>
 
 <br>
 
